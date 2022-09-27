@@ -17,6 +17,8 @@
         "@vue/cli-plugin-babel": "~5.0.0",
         "@vue/cli-service": "~5.0.0"
     },
+    "eslintConfig小孔的标记222222222": {
+        "root": true,
         "env": {
             "node": true
         },
